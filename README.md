@@ -1,6 +1,6 @@
-# flu_01
+# Flutter应用
 
-A new Flutter project.
+学习Flutter各个组件
 
 ## Getting Started
 

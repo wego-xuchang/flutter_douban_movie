@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter应用',
       home: MyHome(
-        content: '黑马程序员',
+        content: 'Flutter应用',
       ),
       theme: ThemeData(primarySwatch: Colors.purple),
     );

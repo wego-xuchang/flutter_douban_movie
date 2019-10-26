@@ -73,8 +73,8 @@ class _MyHomeState extends State<MyHome> {
                   padding: EdgeInsets.zero,
                   children: <Widget>[
                     UserAccountsDrawerHeader(
-                      accountName: Text('刘龙宾'),
-                      accountEmail: Text('liulongbin1314@outlook.com'),
+                      accountName: Text('Flutter应用'),
+                      accountEmail: Text('flutter@google.com'),
                       currentAccountPicture: CircleAvatar(
                         backgroundImage: NetworkImage(
                             'https://images.gitee.com/uploads/91/465191_vsdeveloper.png?1530762316'),
